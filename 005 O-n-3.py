@@ -5,3 +5,4 @@ def print_items(n):
                 print(i,j,k)
 
 print_items(10)
+# n*n*n*n*n*n =o(n^2)

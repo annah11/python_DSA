@@ -4,3 +4,4 @@ def print_items(n):
             print(i,j) 
 
 print_items(10)
+# nested loop o(n^2)
