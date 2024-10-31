@@ -3,3 +3,4 @@ def add_items(n):
  
 
 print add_items(10)
+# O(1)
