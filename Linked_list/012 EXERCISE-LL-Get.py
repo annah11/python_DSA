@@ -66,13 +66,7 @@ class LinkedList:
             self.tail = None
         return temp
 
-    ### WRITE GET METHOD HERE ###
-    #                           #
-    #                           #
-    #                           #
-    #                           #
-    #############################
-        
+
 
 
 

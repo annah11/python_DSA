@@ -29,7 +29,7 @@ class LinkedList:
         return True
 
 
-my_linked_list = LinkedList(11)
+my_linked_list = LinkedList(12)
 my_linked_list.append(3)
 my_linked_list.append(23)
 my_linked_list.append(7)
