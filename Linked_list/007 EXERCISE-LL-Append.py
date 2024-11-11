@@ -43,7 +43,7 @@ class LinkedList:
 
 
 
-my_linked_list = LinkedList(1)
+my_linked_list = LinkedList(14)
 my_linked_list.make_empty()
 
 my_linked_list.append(1)
