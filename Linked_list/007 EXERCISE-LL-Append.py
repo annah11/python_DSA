@@ -36,7 +36,9 @@ class LinkedList:
         # INSERT IF/ELSE STATEMENT HERE #
         #################################
         
+        
         self.length += 1
+        return True
 
 
 
